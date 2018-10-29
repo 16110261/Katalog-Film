@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KatalogFilm0261</string>
+    <string name="judul">Ini Judul</string>
+    <string name="release">Release :</string>
+    <string name="tgl">29-10-18</string>
+    <string name="vote">Vote Acount</string>
+    <string name="hasil_vote">100</string>
+    <string name="popular">Popularity</string>
+    <string name="hasil_popular">100</string>
+    <string name="btn_lengkap">Read More</string>
+
+</resources>
